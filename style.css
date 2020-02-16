@@ -8,7 +8,7 @@ ul {
     display: flex;
     justify-content: space-between;
     background: thistle;
-    padding: 3rem;
+    padding: 1rem;
 }
 
 li {
@@ -67,7 +67,7 @@ main{
         grid-row: 3/ 4;
     }
     .text{
-        padding: 2rem 6rem;
+        padding: 3rem 6rem;
     }
 
     .linkContainer{
